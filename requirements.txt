@@ -1,0 +1,4 @@
+keras
+feedparser
+pytelegrambotapi
+h5py
